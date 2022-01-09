@@ -1,0 +1,57 @@
+{
+	"storyName": "AIRSHIP",
+	"hideFreeplay": false,
+	"weekBackground": "airship",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"impostorr",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Watch-Out",
+			"yellow",
+			[
+				255,
+				195,
+				100
+			]
+		],
+		[
+			"Apprehensive",
+			"white",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Airship-blue",
+			"crewmateA",
+			[
+			        148,
+				22,
+				83
+			]
+		],
+                [
+                        "Double Trouble",
+                        "impostors",
+                        [
+                                255,
+                                155,
+                                95
+                        ]
+		]
+	],
+	"weekName": "WeekAirship"
+}
